@@ -12,3 +12,7 @@
 <li>SpringBoot</li>
 <li>MariaDB</li>
 </ul>
+<h4>Server</h4>
+<ul>
+<li>AWS</li>
+</ul>
