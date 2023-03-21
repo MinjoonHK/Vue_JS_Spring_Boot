@@ -1,4 +1,3 @@
-# Vue_JS_Spring_Boot
 <h2>Gallery Page with</h2>
 <h4>Front</h4>
 <ul>
