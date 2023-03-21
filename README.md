@@ -6,6 +6,7 @@
 <li>CSS</li>
 <li>JavaScript</li>
 <li>Vue.js</li>
+<li>BootStrap</li>
 </ul>
 <h4>Back</h4>
 <ul>
