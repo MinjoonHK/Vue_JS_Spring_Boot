@@ -7,3 +7,8 @@
 <li>JavaScript</li>
 <li>Vue.js</li>
 </ul>
+<h4>Back</h4>
+<ul>
+<li>SpringBoot</li>
+<li>MariaDB</li>
+</ul>
